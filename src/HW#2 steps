@@ -1,0 +1,18 @@
+
+	TEST_CASES
+	
+	
+	1) START_TEST(grayscale_examples)		DONE
+
+	2) START_TEST(negative_functionality)         DONE
+
+	4) START_TEST(blur_functionality)		DONE
+	
+	5) START_TEST(negative_zero_size); 		DONE
+	
+	6) START_TEST(blur_radius_edge_case);		->
+	
+	7) START_TEST(transparency_functionality);     DONE
+	
+	8) START_TEST(transparency_edge)_case);    	DONE
+	 	
